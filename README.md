@@ -6,11 +6,11 @@
 
 ![Muhammad Sohail GitHub stats](https://github-readme-stats.vercel.app/api?username=MrSohailAhmad&theme=dark&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSohailAhmad&hide_progress=false&theme=react-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSohailAhmad&&layout=lompactlayout&hide_progress=false&theme=react-dark)
 
 <!-- activity graph -->
 
-[![Muhammad Sohail GitHub stats](https://github-readme-activity-graph.vercel.app/graph?username=MrSohailAhmad&theme=react-dark&layout=lompactlayout)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Muhammad Sohail GitHub stats](https://github-readme-activity-graph.vercel.app/graph?username=MrSohailAhmad&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 > # Tech Skill
 
