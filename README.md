@@ -17,7 +17,7 @@ In my free time, I enjoy exploring new Technologies, Reading Book. I am always l
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=MrSohailAhmad&layout=compact&theme=dark&card_width=200" />
 </a>
 <a href="https://github.com/MrSohailAhmad/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MrSohailAhmad&layout=compact&theme=dark&&langs_count=8&card_width=200" />
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MrSohailAhmad&layout=compact&theme=dark&&langs_count=8&card_width=250" />
 </a>
 
 # My Contribution
