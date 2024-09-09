@@ -10,7 +10,7 @@
 
 <!-- activity graph -->
 
-[![Muhammad Sohail GitHub stats](https://github-readme-activity-graph.vercel.app/graph?username=MrSohailAhmad&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Muhammad Sohail GitHub stats](https://github-readme-activity-graph.vercel.app/graph?username=MrSohailAhmad&theme=react-dark&layout=lompactlayout)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 > # Tech Skill
 
