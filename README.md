@@ -29,7 +29,7 @@ In my free time, I enjoy exploring new Technologies, Reading Book. I am always l
 > # Tech Skill
 
 <p align="left" style="display:flex" >
-<p style="font-size: 2rem; font-weight: bold;">Languages</p>
+<!-- <p style="font-size: 2rem; font-weight: bold;">Languages</p> -->
 
 <!-- Languages -->
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" />
@@ -38,32 +38,33 @@ In my free time, I enjoy exploring new Technologies, Reading Book. I am always l
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3" />
 
- <p style="font-size: 2rem; font-weight: bold;">Frontend Frameworks</p>
+ <!-- <p style="font-size: 2rem; font-weight: bold;">Frontend Frameworks</p> -->
 
   <!-- Frontend Frameworks -->
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React" />
   <img src="https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" alt="Next.js" />
-  <p style="font-size: 2rem; font-weight: bold;">STYLING LIBRARIES</p>
+
+  <!-- <p style="font-size: 2rem; font-weight: bold;">STYLING LIBRARIES</p> -->
 
   <!-- Styling Libraries -->
   <img src="https://img.shields.io/badge/-Material--UI-0081CB?logo=mui&logoColor=white&style=for-the-badge" alt="Material-UI" />
   <img src="https://img.shields.io/badge/-ShadCN-121212?logo=shadcn&logoColor=white&style=for-the-badge" alt="ShadCN" />
   <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" alt="Bootstrap" />
-  <p style="font-size: 2rem; font-weight: bold;">Backend Frameworks</p>
+  <!-- <p style="font-size: 2rem; font-weight: bold;">Backend Frameworks</p> -->
 
   <!-- Backend Frameworks -->
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="Node.js" />
   <img src="https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" alt="NestJS" />
   <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express.js" />
-  <p style="font-size: 2rem; font-weight: bold;">Databases</p>
+  <!-- <p style="font-size: 2rem; font-weight: bold;">Databases</p> -->
 
   <!-- Databases -->
   <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL" />
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/-MSSQL-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" alt="MSSQL" />
-<p style="font-size: 2rem; font-weight: bold;">Tools & Platforms</p>
+<!-- <p style="font-size: 2rem; font-weight: bold;">Tools & Platforms</p> -->
 
   <!-- Tools & Platforms -->
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
