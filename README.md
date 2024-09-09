@@ -2,6 +2,17 @@
 
 ## Summary
 
+<p>
+Hello! I am a Full Stack Developer with a passion for developing innovative and user-friendly web applications. With 1+ years of experience in the industry, I have honed my skills in JavaScript, node.js, React, Next.js, Nest.js, Mongo DB, SQL , MSSQL, Swagger, Jira, Postman, .
+
+I have a strong understanding of the software development life cycle and have worked on projects ranging from simple websites to complex web applications. I am always striving to stay up-to-date with the latest technologies and industry trends, and I am dedicated to delivering high-quality solutions to my clients.
+
+Aside from my technical skills, I am a team player who values communication and collaboration. I believe that working together with my clients and colleagues leads to the best results and I am always open to feedback and suggestions.
+
+In my free time, I enjoy exploring new Technologies, Reading Book. I am always looking for new challenges and opportunities to grow as a developer, and I am excited to see what the future holds.
+
+</p>
+
 <!-- All info section -->
 
 <a href="https://github.com/MrSohailAhmad/github-readme-stats">
