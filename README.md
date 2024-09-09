@@ -4,9 +4,14 @@
 
 <!-- All info section -->
 
-![Muhammad Sohail GitHub stats](https://github-readme-stats.vercel.app/api?username=MrSohailAhmad&theme=dark&show_icons=true)
+<a href="https://github.com/MrSohailAhmad/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MrSohailAhmad&layout=compact&theme=dark&" />
+</a>
+<a href="https://github.com/MrSohailAhmad/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MrSohailAhmad&layout=compact&theme=dark&&langs_count=8&card_width=320" />
+</a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSohailAhmad&&layout=lompactlayout&hide_progress=false&theme=react-dark)
+# My Activity
 
 <!-- activity graph -->
 
@@ -14,7 +19,7 @@
 
 > # Tech Skill
 
-<p align="left">
+<p align="center">
 <p style="font-size: 2rem; font-weight: bold;">Languages</p>
 
 <!-- Languages -->
