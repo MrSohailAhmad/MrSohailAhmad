@@ -6,7 +6,7 @@
 
 ![Muhammad Sohail GitHub stats](https://github-readme-stats.vercel.app/api?username=MrSohailAhmad&theme=dark&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSohailAhmad&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSohailAhmad&hide_progress=true&theme=react-dark)
 
 <!-- activity graph -->
 
