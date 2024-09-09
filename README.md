@@ -28,7 +28,7 @@ In my free time, I enjoy exploring new Technologies, Reading Book. I am always l
 
 > # Tech Skill
 
-<p align="center">
+<p align="left" style="display:flex" >
 <p style="font-size: 2rem; font-weight: bold;">Languages</p>
 
 <!-- Languages -->
