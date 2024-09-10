@@ -26,7 +26,7 @@ In my free time, I enjoy exploring new Technologies, Reading Book. I am always l
 
 [![Muhammad Sohail GitHub stats](https://github-readme-activity-graph.vercel.app/graph?username=MrSohailAhmad&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-> # Tech Skill
+# Tech Skill
 
 <p align="left" style="display:flex" >
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" />
