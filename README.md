@@ -52,4 +52,5 @@ In my free time, I enjoy exploring new Technologies, Reading Book. I am always l
   <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" alt="Postman" />
   <img src="https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black&style=for-the-badge" alt="Swagger" />
   <img src="https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" alt="Jira" />
+  <img src="https://img.shields.io/badge/-prisma-0052CC?logo=jira&logoColor=white&style=for-the-badge" alt="prisma" />
 </p>
