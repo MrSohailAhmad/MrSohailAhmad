@@ -13,14 +13,16 @@ In my free time, I enjoy exploring new Technologies, Reading Book. I am always l
 
 <!-- All info section -->
 
-<a href="https://github.com/MrSohailAhmad/github-readme-stats">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=MrSohailAhmad&layout=compact&theme=dark&card_width=150" />
-</a>
+
 # My Contribution
 
 <!-- activity graph -->
 
 [![Muhammad Sohail GitHub stats](https://github-readme-activity-graph.vercel.app/graph?username=MrSohailAhmad&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<a href="https://github.com/MrSohailAhmad/github-readme-stats">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=MrSohailAhmad&layout=compact&theme=dark&card_width=150" />
+</a>
 
 <a href="https://github.com/MrSohailAhmad/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MrSohailAhmad&layout=compact&theme=dark&&langs_count=8&card_width=200" />
