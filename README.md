@@ -3,7 +3,7 @@
 ## Summary
 
 <p>
-Hello! I am a Full Stack Developer with a passion for developing innovative and user-friendly web applications. With 2+ years of experience in the industry, I have honed my skills in JavaScript, node.js, React, Next.js, Nest.js, Mongo DB, Postgresql, MySQL, FastAPI.
+Hello! I am a Software Engineer with a passion for developing innovative and user-friendly web applications. With 2+ years of experience in the industry, I have honed my skills in JavaScript, node.js, React, Next.js, Nest.js, Mongo DB, Postgresql, MySQL, FastAPI.
 
 I have a strong understanding of the software development life cycle and have worked on projects ranging from simple websites to complex web applications. I am always striving to stay up-to-date with the latest technologies and industry trends, and I am dedicated to delivering high-quality solutions to my clients.
 
