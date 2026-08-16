@@ -33,7 +33,7 @@ I build production-grade web applications and autonomous AI systems. With over 3
 ---
 
 ### 📬 Connect With Me
-* 💼 **LinkedIn:** [linkedin.com/in/muhammad-sohail](https://linkedin.com/in/muhammad-sohail)
+* 💼 **LinkedIn:** [Muhammad Sohail](https://www.linkedin.com/in/muhammad-sohail-355a621b1/)
 * 📧 **Email:** [ahmadsohail1819@gmail.com](mailto:ahmadsohail1819@gmail.com)
 * 📍 **Location:** Lahore, Pakistan
 
