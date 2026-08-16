@@ -1,42 +1,41 @@
 # Hi there, I'm Muhammad Sohail 👋
 
-**Full Stack Engineer & Agentic AI Specialist**  
-[cite: 1]
+**Full Stack Engineer ML & Agentic AI Specialist**  
 
-I build production-grade web applications and autonomous AI systems[cite: 1]. With over 3 years of software engineering experience across the **MERN / PERN stack** (Next.js, React, Node.js, NestJS, FastAPI, PostgreSQL, MongoDB), I specialize in scalable backend architectures and cutting-edge **Agentic AI orchestration**[cite: 1].
+I build production-grade web applications and autonomous AI systems. With over 3 years of software engineering experience across the **MERN / PERN stack** (Next.js, React, Node.js, NestJS, FastAPI, PostgreSQL, MongoDB), I specialize in scalable backend architectures and cutting-edge **Agentic AI orchestration**.
 
 ---
 
 ### 🚀 What I Do
-* 🤖 **Autonomous AI & RAG Pipelines:** Building agentic workflows, LLM integrations, and custom retrieval systems using OpenAI SDK, Google Agent ADK, CrewAI, and Python[cite: 1].
-* 🌐 **Scalable Full-Stack Engineering:** Architecting performant web platforms with Next.js, TypeScript, NestJS, and relational/document databases[cite: 1].
-* 🔐 **Enterprise Architecture & Integrations:** Implementing secure auth systems (JWT, Twilio OTP) and mission-critical 3rd-party integrations (Plaid, Green Money, cloud storage)[cite: 1].
-* ⚙️ **Performance & System Optimization:** Designing modular systems and tuning database queries to maximize throughput and minimize latency[cite: 1].
+* 🤖 **Autonomous AI & RAG Pipelines:** Building agentic workflows, LLM integrations, and custom retrieval systems using OpenAI SDK, Google Agent ADK, CrewAI, and Python.
+* 🌐 **Scalable Full-Stack Engineering:** Architecting performant web platforms with Next.js, TypeScript, NestJS, and relational/document databases.
+* 🔐 **Enterprise Architecture & Integrations:** Implementing secure auth systems (JWT, Twilio OTP) and mission-critical 3rd-party integrations (Plaid, Green Money, cloud storage).
+* ⚙️ **Performance & System Optimization:** Designing modular systems and tuning database queries to maximize throughput and minimize latency.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-* **Languages:** JavaScript (ES6+), TypeScript, Python, SQL, PHP, HTML5/CSS3[cite: 1]
-* **Frontend:** React.js, Next.js, Tailwind CSS, Bootstrap[cite: 1]
-* **Backend:** Node.js, Express.js, NestJS, FastAPI, RESTful APIs[cite: 1]
-* **Databases:** PostgreSQL, MongoDB, MySQL, Supabase, Firebase, Prisma ORM[cite: 1]
-* **AI & Agentic Tech:** Agentic AI, RAG Pipelines, CrewAI, OpenAI Agent SDK, Google Agent ADK, Azure Speech[cite: 1]
-* **DevOps & Tools:** Docker, Git, AWS (S3), GCP, Azure, JWT[cite: 1]
+* **Languages:** JavaScript (ES6+), TypeScript, Python, SQL, PHP, HTML5/CSS3.
+* **Frontend:** React.js, Next.js, Tailwind CSS, Bootstrap.
+* **Backend:** Node.js, Express.js, NestJS, FastAPI, RESTful APIs.
+* **Databases:** PostgreSQL, MongoDB, MySQL, Supabase, Firebase, Prisma ORM.
+* **AI & Agentic Tech:** Agentic AI, RAG Pipelines, CrewAI, OpenAI Agent SDK, Google Agent ADK, Azure Speech.
+* **DevOps & Tools:** Docker, Git, AWS (S3), GCP, Azure, JWT.
 
 ---
 
 ### 🌟 Featured Highlights
-* **Zavaro Reach:** AI-powered intent-based prospecting engine and Chrome extension with automated LLM personalization workflows[cite: 1].
-* **English Chatter:** Bilingual AI English speech diagnostic platform integrated with Azure Speech Assessment[cite: 1].
-* **NextHire & Swacch-Gaon 2.0:** Autonomous multi-agent systems automating end-to-end operational workflows[cite: 1].
+* **Zavaro Reach:** AI-powered intent-based prospecting engine and Chrome extension with automated LLM personalization workflows.
+* **English Chatter:** Bilingual AI English speech diagnostic platform integrated with Azure Speech Assessment.
+* **NextHire & Swacch-Gaon 2.0:** Autonomous multi-agent systems automating end-to-end operational workflows.
 
 ---
 
 ### 📬 Connect With Me
-* 💼 **LinkedIn:** [linkedin.com/in/muhammad-sohail](https://linkedin.com/in/muhammad-sohail)[cite: 1]
-* 📧 **Email:** [ahmadsohail1819@gmail.com](mailto:ahmadsohail1819@gmail.com)[cite: 1]
-* 📍 **Location:** Lahore, Pakistan[cite: 1]
+* 💼 **LinkedIn:** [linkedin.com/in/muhammad-sohail](https://linkedin.com/in/muhammad-sohail)
+* 📧 **Email:** [ahmadsohail1819@gmail.com](mailto:ahmadsohail1819@gmail.com)
+* 📍 **Location:** Lahore, Pakistan
 
 <!-- All info section -->
 
