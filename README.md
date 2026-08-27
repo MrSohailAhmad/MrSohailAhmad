@@ -42,18 +42,20 @@ I build production-grade web applications and autonomous AI systems. With over 3
 
 # My Contribution
 
-<!-- activity graph -->
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrSohailAhmad&theme=react-dark" alt="Muhammad Sohail Activity Graph" width="100%" />
+</p>
 
-[![Muhammad Sohail GitHub stats](https://github-readme-activity-graph.vercel.app/graph?username=MrSohailAhmad&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<a href="https://github.com/MrSohailAhmad/github-readme-stats">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=MrSohailAhmad&layout=compact&theme=dark&card_width=150" />
-</a>
-
-<a href="https://github.com/MrSohailAhmad/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MrSohailAhmad&layout=compact&theme=dark&&langs_count=8&card_width=200" />
-</a>
-
+<!-- Stats & Top Languages Cards -->
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=MrSohailAhmad&show_icons=true&theme=dark&count_private=true" alt="Muhammad Sohail GitHub Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrSohailAhmad&layout=compact&theme=dark&langs_count=8" alt="Top Languages" />
+  </a>
+</p>
 
 
 # Tech Skill
