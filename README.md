@@ -114,13 +114,13 @@ Designing modular systems and tuning database queries to maximize throughput and
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrSohailAhmad&show_icons=true&theme=dark&hide_border=true" alt="Muhammad Sohail GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSohailAhmad&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
+  <img src="https://stats.justin0304.workers.dev/api?username=MrSohailAhmad&show_icons=true&theme=dark&hide_border=true" alt="Muhammad Sohail GitHub Stats" height="165" />
+  <img src="https://stats.justin0304.workers.dev/api/top-langs/?username=MrSohailAhmad&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
 </p>
 
 <p align="center">
   <a href="https://github.com/MrSohailAhmad">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrSohailAhmad&theme=react" alt="Muhammad Sohail GitHub Activity Graph" width="100%" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=MrSohailAhmad&theme=react" alt="Muhammad Sohail GitHub Activity Graph" width="100%" />
   </a>
 </p>
 ---
