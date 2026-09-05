@@ -119,7 +119,7 @@ Designing modular systems and tuning database queries to maximize throughput and
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrSohailAhmad&theme=react-dark&hide_border=true" alt="Muhammad Sohail Activity Graph" width="100%" />
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MrSohailAhmad&theme=react)](https://github.com/MrSohailAhmad/github-readme-activity-graph)
 </p>
 
 ---
