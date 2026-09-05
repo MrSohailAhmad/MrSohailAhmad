@@ -118,10 +118,11 @@ Designing modular systems and tuning database queries to maximize throughput and
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSohailAhmad&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
 </p>
 
-
-[!Muhammad Sohail github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MrSohailAhmad&theme=react)](https://github.com/MrSohailAhmad/github-readme-activity-graph)
-
-
+<p align="center">
+  <a href="https://github.com/MrSohailAhmad">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrSohailAhmad&theme=react" alt="Muhammad Sohail GitHub Activity Graph" width="100%" />
+  </a>
+</p>
 ---
 
 <p align="center"><i>Let's build something autonomous. 🚀</i></p>
