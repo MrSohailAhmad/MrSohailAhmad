@@ -109,20 +109,6 @@ Designing modular systems and tuning database queries to maximize throughput and
 <img src="https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" alt="Jira" />
 </p>
 
----
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-mu-two-r4k4y3t7m4.vercel.app/api?username=MrSohailAhmad&show_icons=true&theme=dark&hide_border=true" alt="Muhammad Sohail GitHub Stats" height="165" />
-  <img src="https://github-readme-stats-mu-two-r4k4y3t7m4.vercel.app/api/top-langs/?username=MrSohailAhmad&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/MrSohailAhmad">
-    <img src="https://activity-graph.herokuapp.com/graph?username=MrSohailAhmad&theme=react" alt="Muhammad Sohail GitHub Activity Graph" width="100%" />
-  </a>
-</p>
----
 
 <p align="center"><i>Let's build something autonomous. 🚀</i></p>
