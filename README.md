@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Muhammad Sohail 👋</h1>
-<h3 align="center">Software Engineer & Full-Stack Engineer | ML & Agentic AI Specialist</h3>
+<h3 align="center">Software Engineer | ML & Agentic AI Specialist</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-sohail-355a621b1/">
@@ -15,7 +15,7 @@
 
 ### About Me
 
-I'm a Full-Stack Engineer with 3+ years of experience across the **MERN / PERN** stack, building production-grade web applications and — more recently — autonomous **Agentic AI systems**. I like working at the intersection of solid backend architecture and applied AI: designing systems that are scalable and maintainable, while also experimenting with what LLM-driven agents can automate end-to-end.
+I'm a Software Engineer with 3+ years of experience across the **MERN / PERN** stack, building production-grade web applications and — more recently — autonomous **Agentic AI systems**. I like working at the intersection of solid backend architecture and applied AI: designing systems that are scalable and maintainable, while also experimenting with what LLM-driven agents can automate end-to-end.
 
 - 🔭 Currently building agentic workflows and RAG pipelines for real-world business automation
 - 🌱 Deepening my expertise in multi-agent orchestration (CrewAI, Google Agent ADK, OpenAI Agent SDK)
