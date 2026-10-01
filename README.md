@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Muhammad Sohail 👋</h1>
-<h3 align="center">Full-Stack Engineer | ML & Agentic AI Specialist</h3>
+<h3 align="center">Software Engineer & Full-Stack Engineer | ML & Agentic AI Specialist</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-sohail-355a621b1/">
